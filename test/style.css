@@ -1,0 +1,27 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:floralwhite;
+}
+h1{
+        text-align: center;
+
+}
+table{
+    margin: 0 auto;
+    width: 90%;
+    border: collapse;
+}
+th{
+    text-align: center;
+    background-color: red;
+}
+th:hover{
+    background-color: pink;
+}
+td[rowspan]{
+    background-color: aqua;
+}
+td[colspan]{
+    background-color:olivedrab;
+}
+

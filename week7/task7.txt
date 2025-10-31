@@ -1,0 +1,33 @@
+
+Learn how to divide a webpage into multiple sections using the <frameset> and <frame> elements.
+
+    
+    Instructions:
+
+    Create three files:
+
+    index.html
+
+    menu.html
+
+    content.html
+
+    In index.html,
+
+    Use a <frameset> to split the page into two columns:
+        the left side 30% width and the right side 70%.
+
+        The left frame should display menu.html.
+
+        The right frame should display content.html.
+
+        In menu.html,
+
+        Create a simple list of links:
+        Home, About, Contact
+
+        Each link should open in the right frame (use target="main").
+
+        In content.html,
+
+        Write a short welcome message and an image.
